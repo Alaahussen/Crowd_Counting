@@ -16,3 +16,8 @@ This project implements a crowd counting system based on CSRNet (Congested Scene
 **Support for Standard Datasets:** Compatible with popular crowd counting datasets like ShanghaiTech (Part A & B) and UCF-QNRF.
 
 **Visualization:** Tools to visualize ground truth and predicted density maps with actual vs. predicted counts.
+---
+**Dataset**
+![Image](https://github.com/user-attachments/assets/032d4e7a-0b8d-40c5-8133-50d9d25b9291)
+---
+**Prediction**
