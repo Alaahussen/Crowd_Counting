@@ -1,7 +1,9 @@
 **Crowd Counting using CSRNet with Attention Mechanism**
 ---
 **📌 Overview**
+
 This project implements a crowd counting system based on CSRNet (Congested Scene Recognition Network) enhanced with an Attention Mechanism to improve performance in densely populated scenes. The model is designed to generate high-quality density maps from input crowd images, providing accurate estimations of the number of people in each scene.
+
 ---
 **🧠 Key Features**
 
