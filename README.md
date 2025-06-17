@@ -22,4 +22,4 @@ This project implements a crowd counting system based on CSRNet (Congested Scene
 ---
 
 **Prediction**
-![Image](https://github.com/user-attachments/assets/032d4e7a-0b8d-40c5-8133-50d9d25b9291)
+![Image](https://github.com/user-attachments/assets/a9e098e3-6100-4bd2-94ab-98061750e237)
